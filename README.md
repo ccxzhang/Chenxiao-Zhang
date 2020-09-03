@@ -1,4 +1,4 @@
-# About
+## About
 I am currently a student at the Mccourt School of Public Policy, Georgetown University. 
 
 ## Interests
