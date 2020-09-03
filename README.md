@@ -7,4 +7,4 @@ Cultural Sociology, Political Methodology, Political Sociology, Social Policy, S
 
 ## Ongoing Project 
 - Hong Kongness from the Mainland Eyes\
- &nbsp; [current draft (June 2020)](Project/Hong_Kongness_from_the_Mainland_Eyes.pdf)
+ &nbsp; &nbsp; &nbsp; &nbsp; [Current draft (June 2020)](Project/Hong_Kongness_from_the_Mainland_Eyes.pdf)
