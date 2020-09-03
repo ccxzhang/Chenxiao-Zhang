@@ -9,5 +9,6 @@ description: > # this means to ignore newlines until "baseurl:"
 github:
   is_project_page: false
 
-social_links:
-  twitter: charliecxzhang
+minima:
+  social_links:
+    twitter: charliecxzhang
