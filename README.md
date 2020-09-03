@@ -4,4 +4,4 @@ I am currently a student at the Mccourt School of Public Policy, Georgetown Univ
 
 ## Interests
 
-Cultural Sociology, Political Methodology, Political Sociology, Social Policy, Social Theory
+Cultural Sociology, Political Methodology, Political Sociology, Social Policy, Social Theory. 
