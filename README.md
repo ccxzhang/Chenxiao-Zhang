@@ -1,5 +1,5 @@
 ## About
-I am a DSPP student at the McCourt School of Public Policy, Georgetown University. Prior to Georgetown, I studied sociology and political science in Hong Kong and graduated with first class honors. 
+I am a DSPP student at the McCourt School of Public Policy, Georgetown University. Prior to Georgetown, I studied sociology and political science in Hong Kong and graduated with first class honors. You can click here to see my [resume]{CV/Resume_of_Charlie_Zhang}.
 
 ## Interests
 
