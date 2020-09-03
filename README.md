@@ -1,6 +1,6 @@
 # Charlie Zhang
 
-I am currently a student in Data Science and Public Policy program in Mccourt School of Public Policy, Georgetown University. 
+I am currently a student at the Mccourt School of Public Policy, Georgetown University. 
 
 ## Interests
 
