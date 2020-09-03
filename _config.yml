@@ -5,5 +5,4 @@ plugins:
   - jekyll-coffeescript
   - jekyll-assets
   - another-jekyll-plugin
-  
-  gem install jekyll-gist jekyll-coffeescript jekyll-assets another-jekyll-plugin
+ 
