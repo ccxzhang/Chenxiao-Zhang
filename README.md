@@ -1,9 +1,9 @@
 ## About
-I am currently a student at the Mccourt School of Public Policy, Georgetown University. 
+I am a DSPP student at the McCourt School of Public Policy, Georgetown University. Prior to Georgetown, I studied Sociology and Political Science in Hong Kong and graduated with first class honors. 
 
 ## Interests
 
-Cultural Sociology, Political Methodology, Political Sociology, Social Policy, Social Theory. 
+Cultural Sociology, Political Methodology, Political Sociology, Social Policy, Social Theory
 
 ## Ongoing Project 
 - "Hong Kongness" from the Mainland Eyes\
