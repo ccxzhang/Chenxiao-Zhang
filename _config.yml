@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Charlie Zhang
-author: Charlie Zhang
-email: cz317@georgetown.edu
+author: 
+  name: Charlie Zhang
+ email: cz317@georgetown.edu
 description: > # this means to ignore newlines until "baseurl:"
   MS DSPP 22' @Georgetown University
 
