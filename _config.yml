@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Charlie Zhang
-logo: []
+logo: [.selfile.jpg]
 authors: ['Charlie Zhang']
 email: ['cz317@georgetown.edu']
 description: > # this means to ignore newlines until "baseurl:"
