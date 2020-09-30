@@ -3,7 +3,7 @@ I am a DSPP student at the McCourt School of Public Policy, Georgetown Universit
 
 ## Interests
 
-Cultural Sociology, Political Methodology, Political Sociology, Social Policy, Social Theory
+Cultural Sociology, Political Methodology, Public Policy, Social Theory
 
 ## Ongoing Project 
 - "Hong Kongness" from the Mainland Eyes\
