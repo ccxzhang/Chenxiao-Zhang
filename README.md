@@ -7,4 +7,4 @@ Cultural Sociology, Political Methodology, Public Policy, Social Theory
 
 ## Ongoing Project 
 - "Hong Kongness" from the Mainland Eyes\
- &nbsp; &nbsp; &nbsp; &nbsp; [Current draft (June 2020)](Project/Hong_Kongness_from_the_Mainland_Eyes.pdf)| [Appendix]()
+ &nbsp; &nbsp; &nbsp; &nbsp; [Current draft (Aug 2020)](Project/Hong_Kongness_from_the_Mainland_Eyes.pdf)| [Appendix]()
