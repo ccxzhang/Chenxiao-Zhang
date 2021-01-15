@@ -7,7 +7,7 @@ Cultural Sociology, Political Methodology, Public Policy, Social Theory
 
 ## Research Experience
 - Dr. Yao-tai Li\
- &nbsp; &nbsp; &nbsp; &nbsp; Collect the Lennon Wall posts and clean the data. Assist Dr. Yao-tai Li in designing the coding framework. Analyze the content and sentiment of the posts. 
+ &nbsp; &nbsp; &nbsp; &nbsp; Collect the Lennon Wall posts and clean the data. Co-Design the coding framework. Analyze the content and sentiment of the posts. 
 
 ## Ongoing Project 
 - "Hong Kongness" from the Mainland Eyes\
