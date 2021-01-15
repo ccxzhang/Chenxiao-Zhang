@@ -5,6 +5,10 @@ I am first-year DSPP student at the McCourt School of Public Policy. Prior to Mc
 
 Cultural Sociology, Political Methodology, Public Policy, Social Theory
 
+## Research Experience
+- Dr. Yao-tai Li\
+ &nbsp; &nbsp; &nbsp; &nbsp; Collect the Lennon Wall posts and clean the data. Assist Dr. Yao-tai Li in designing the coding framework. Analyze the content and sentiment of the posts. 
+
 ## Ongoing Project 
 - "Hong Kongness" from the Mainland Eyes\
  &nbsp; &nbsp; &nbsp; &nbsp; [Current draft (Aug 2020)](Project/Hong_Kongness_from_the_Mainland_Eyes.pdf)| [Appendix]()
